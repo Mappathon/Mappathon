@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D0E012AC-69A1-4598-84C4-A3F71DADE9EE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>kinectHumanMapper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>101A6E52-05F3-49D3-BF50-DB68CF7380EA</key>
+		<string>https://github.com/brunokruse/Mappathon.git</string>
+		<key>F28A0DEC-D359-4D73-AA49-5EAEC86453FB</key>
+		<string>https://github.com/openframeworks/openFrameworks.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>openFrameworks/Examples/kinectHumanMapper/kinectHumanMapper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>101A6E52-05F3-49D3-BF50-DB68CF7380EA</key>
+		<string>../../../../..</string>
+		<key>F28A0DEC-D359-4D73-AA49-5EAEC86453FB</key>
+		<string>../../../../../../../../Documents/openFrameworks</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/brunokruse/Mappathon.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>101A6E52-05F3-49D3-BF50-DB68CF7380EA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>101A6E52-05F3-49D3-BF50-DB68CF7380EA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Mappathon</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F28A0DEC-D359-4D73-AA49-5EAEC86453FB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>openFrameworks</string>
+		</dict>
+	</array>
+</dict>
+</plist>
