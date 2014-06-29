@@ -2,6 +2,13 @@
 Some examples on how to get Syphon+MadMapper talking together in OSX.
 
 ## Processing
+
+Libraries needed:
+controlP5: https://code.google.com/p/controlp5/
+httprequests_processing: https://github.com/runemadsen/HTTP-Requests-for-Processing
+SimpleOpenNI: Tools->AddTool->SimpleOpenNI (in processing)
+GifAnimation: http://extrapixel.github.io/gif-animation/
+
 1. Make sure to have MadMapper and processing 2.0b8 installed.
 2. Download the Syphon processing library from here: <a href="http://bit.ly/OS81FB" title="Download">http://bit.ly/OS81FB</a>
 3. Unzip and copy the 'Syphon' folder to your Processing libraries folder.
